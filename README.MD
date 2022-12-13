@@ -1,3 +1,5 @@
+(README IS FROM ORIGINAL PROJECT THAT WAS FORKED, NO CONFIDENTIAL DATA TO BE USED OR LINKED IN THIS PROJECT)
+
 
 Medium publication - [ASP.NET Core Token Service Starter Kit](https://medium.com/scrum-and-coke/asp-net-core-token-service-starter-kit-f63bfdc0bbde)
 
